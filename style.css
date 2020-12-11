@@ -175,7 +175,20 @@ nav ul {
   #logo {
     padding: 2rem;
   }
-  .clouds {
+  .cloud {
     height: 40rem;
+    pointer-events: none;
+  }
+  .moving-cloud-1 {
+    z-index: -1;
+  }
+  .moving-cloud-2 {
+    z-index: -2;
+  }
+  .locations-header h3 {
+    background: #131c27;
+    opacity: 0.8;
+    -webkit-text-fill-color: white;
+    padding-left: 2rem;
   }
 }
