@@ -175,4 +175,7 @@ nav ul {
   #logo {
     padding: 2rem;
   }
+  .clouds {
+    height: 40rem;
+  }
 }
