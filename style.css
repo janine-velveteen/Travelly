@@ -62,6 +62,9 @@ button:hover {
 .main-head {
   background-color: #131c27;
   color: white;
+  position: sticky;
+  top: 0px;
+  z-index: 1;
 }
 
 nav {
