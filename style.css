@@ -319,6 +319,11 @@ footer h5 {
     -webkit-text-fill-color: white;
     padding-left: 2rem;
   }
+
+  .form-wrapper {
+    width: 100%;
+  }
+
   footer {
     text-align: center;
   }
