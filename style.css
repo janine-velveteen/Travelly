@@ -93,7 +93,7 @@ nav ul {
 }
 
 .hero {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), transparent),
+  background: linear-gradient(rgba(0, 0, 0, 0.8), transparent),
     url(/images/landing-page.jpg);
   min-height: 90vh;
   background-repeat: none;
@@ -295,6 +295,11 @@ footer h5 {
   flex: 1 1 40rem;
   justify-content: space-between;
   align-items: center;
+}
+
+button:focus {
+  background: #2c3f57;
+  outline-style: solid;
 }
 
 /*Media Queries*/
