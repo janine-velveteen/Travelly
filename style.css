@@ -150,9 +150,6 @@ nav ul {
   animation: cloudAnimation 3s infinite alternate ease-in-out;
 }
 
-.moving-cloud-1 {
-}
-
 .moving-cloud-2 {
   top: 20%;
   z-index: -1;
